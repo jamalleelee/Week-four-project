@@ -1,45 +1,4 @@
-body {
-    background-color: #0B9748;
-    background
-}
-h1 {
-    color: #B42600;
-    font-family: 'Ravi Prakash', cursive;
-    text-align: center;
-    font-size: 5em;
-}
-h2 {
-    color: #B42600;
-    font-family: 'Ravi Prakash', cursive;
-    text-align: center;
-    font-size: 3.5em
-}
-h3 {
-    color: #B42600;
-    font-family: 'Ravi Prakash', cursive;
-    text-align: center;
-    font-size: 3.5em
-}
-h4 {
-    color: #B42600;
-    font-family: 'Ravi Prakash', cursive;
-    text-align: center;
-    font-size: 3.5em
-}
-p {
-    font-family: 'Baloo Chettan', cursive;
-    color: #106086;
-    font-size: 2.0em;
-}
-hr {
-    border-color: #FF8900;
-    border-width: thick;
-}
-.all-animals-pic {
-    width: 60em;
-    border-radius: 10em;
-    border-color: #FF8900;
-    border-style: inset;
-    border-width: thick;
-    height: auto;
+h1, p, h2, h3, td {
+    font-weight: bolder;
+    color: #7A0038
 }
